@@ -1,0 +1,15 @@
+h1 {color: blue;
+	text-align: center;}
+
+body {background-color:#b7d1c4;}
+
+h2 {text-decoration: underline;
+	font-family: cursive;
+	text-align:center;
+	color: purple;
+	}
+
+img {box-shadow: rgba(0,0,0,0.2) 10px 10px;}
+
+li {font-family: Tahoma;
+	font-size: 1em}
